@@ -47,7 +47,7 @@ public class SocialSecurity {
 				+ Math.round(monthly));
 		System.out.println("The total amount you need to save is $"
 				+ Math.round((total)));
-
+ 
 		input.close();
 	}
 }
