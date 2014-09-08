@@ -31,7 +31,7 @@ public class SocialSecurity {
 		
 			double incomerequired = input.nextDouble();
 
-		System.out.print("What is your expected monthly SSI income: ");
+		System.out.print("What is your expected monthly SSI Income: ");
 		
 			double monthlyssi = input.nextDouble();
 
