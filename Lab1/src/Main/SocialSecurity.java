@@ -15,7 +15,7 @@ public class SocialSecurity {
 		
 			int yearstowork = input.nextInt();
 
-		System.out.print("What is you expected annual return percentage: ");
+		System.out.print("What is your expected annual return percentage: ");
 		
 			double annualreturn = input.nextDouble() * .01;
 
